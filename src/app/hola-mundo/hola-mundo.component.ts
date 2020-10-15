@@ -6,6 +6,9 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./hola-mundo.component.css']
 })
 export class HolaMundoComponent implements OnInit {
+// añadimos un título
+  title = 'Bienvenido a Angular'
+  usuarios=['pepe', 'juan', 'tomás', 'león']
 
   constructor() { }
 

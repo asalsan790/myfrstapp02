@@ -26,6 +26,7 @@ que genera proyectos de Angular (ng)
 http://localhost:4200/
 
 
+
 # a partir de aquí generado con la instalación
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
 
